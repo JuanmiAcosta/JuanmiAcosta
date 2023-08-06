@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Mi perfil de GitHub 📄
 Este es el README de mi perfil de GitHub. Aquí es donde puedo compartir información sobre mí, mi trabajo y mis proyectos 💻
 
