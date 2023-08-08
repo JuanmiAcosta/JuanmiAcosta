@@ -24,6 +24,7 @@ Actualmente poseo varias prácticas sobre algoritmos, estructuras de datos, y ap
 <li>Desarrollo web con HTML, CSS y JavaScript 📄</li>
 <li>Desarrollo app de escritorio con Java 📱</li>
 <li>Bases de datos relacionales 🎓</li>
+<li style="font-weight:bold;">Actualmente aprendiendo nuevas tecnologías en diferentes ámbitos de la informática IA , Desarrollo de Software, Sistemas de Información ... </li>
 
 ### Tengo las siguientes hard-skills:
 
