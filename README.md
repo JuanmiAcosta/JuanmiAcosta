@@ -1,38 +1,47 @@
 ## Mi perfil de GitHub 📄
+
 Este es el README de mi perfil de GitHub. Aquí es donde puedo compartir información sobre mí, mi trabajo y mis proyectos 💻
 
-## Sobre mí 👩‍💻
+## Sobre mí 👨🏽‍💻
+
 Soy un estudiante de ingeniería informática con especializado en software aprendiendo sobre aplicaciones web y de escritorio. Me apasiona usar la tecnología para resolver problemas y hacer la vida más fácil para las personas 🌎
 
 ## Mis proyectos 💡
+
 Actualmente poseo varias prácticas sobre algoritmos, estructuras de datos, y aplicaciones web, incluyendo:
 
-Una pequeña aplicación web que usa la conocida API "OpenWeather" 🌿
-Una aplicación de escritorio para la gestión de un gimnasio ( Entrada, clientes, ingresos...) 🌎
-Pequeñas prácticas con algoritmos de exploración de grafos, voraces... 🤖
+<ul>
+<li>Una pequeña aplicación web que usa la conocida API "OpenWeather" 🌿</li>
+<li>Una aplicación de escritorio para la gestión de un gimnasio ( Entrada, clientes, ingresos...) 🌎</li>
+<li>Pequeñas prácticas con algoritmos de exploración de grafos, voraces... 🤖</li>
+</ul>
 
 ## Mis habilidades 💪
 
 ### Tengo las siguientes hard-skills:
 
-Programación en C++ desarrollada 🐍
-Desarrollo web con HTML, CSS y JavaScript 📄
-Desarrollo app de escritorio con Java 📱
-Bases de datos relacionales 🎓
+<li>Programación en C++ desarrollada 🐍</li>
+<li>Desarrollo web con HTML, CSS y JavaScript 📄</li>
+<li>Desarrollo app de escritorio con Java 📱</li>
+<li>Bases de datos relacionales 🎓</li>
 
 ### Tengo las siguientes hard-skills:
 
-Liderazgo de equipos 🫡
-Empatía 👍
-Resolución de problemas 🧠
+<ul>
+<li>Liderazgo de equipos 🫡</li>
+<li>Empatía 👍</li>
+<li>Resolución de problemas 🧠</li>
+</ul>
 
 ## Mis intereses 💡
 
 Estoy interesado en los siguientes temas:
 
-Desarrollo de producto software web y multiplataforma📡
-IOT 🌍
-Tecnología en general🎓
+<ul>
+<li>Desarrollo de producto software web y multiplataforma📡</li>
+<li>IOT 🌍</li>
+<li>Tecnología en general🎓</li>
+</ul>
 
 ## Contacto 📞
 Puedes contactarme por correo electrónico a [acostaojuanmi@gmail.com] o por Linkedin a [https://www.linkedin.com/in/juan-miguel-acosta-ortega-a433191a8/].
