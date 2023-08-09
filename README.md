@@ -4,7 +4,7 @@ Este es el README de mi perfil de GitHub. Aquí es donde puedo compartir informa
 
 ## Sobre mí 👨🏽‍💻
 
-Soy un estudiante de ingeniería informática con especializado en software aprendiendo sobre aplicaciones web y de escritorio. 
+Soy un estudiante de ingeniería informática con especialización en software aprendiendo sobre aplicaciones web y de escritorio. 
 <br>
 Me apasiona usar la tecnología para resolver problemas y hacer la vida más fácil para las personas 🌎
 
