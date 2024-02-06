@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanmi and I'm finishing my Computer Science Degree.</h1>
 <h3 align="center">I am experimenting with different kinds of software development.</h3>
 
-- 🌱 I’m currently learning **about software engineering, to be more specific I'm into backend right now, but I also want to learn about cross-platform, some frontend frameworks, and other different topics.**
+- 🌱 I’m currently learning more **about software engineering, to be more specific I'm into backend right now, but I also want to learn about cross-platform, some frontend frameworks, and other different topics.**
 
 - 👯 I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
 
