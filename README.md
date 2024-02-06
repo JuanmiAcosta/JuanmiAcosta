@@ -1,50 +1,23 @@
-## Mi perfil de GitHub 📄
+<h1 align="center">Hi 👋, I'm Juanmi and I'm finishing my Computer Science Degree.</h1>
+<h3 align="center">I am experimenting with many kinds of software development.</h3>
 
-Este es el README de mi perfil de GitHub. Aquí es donde puedo compartir información sobre mí, mi trabajo y mis proyectos 💻
+- 🌱 I’m currently learning **about software engineering, to be more specific I'm into backend right now, but I also want to learn about cross-platform, some frontend frameworks, and other different topics.**
 
-## Sobre mí 👨🏽‍💻
+- 👯 I’m looking to collaborate on **projects that help me evolving within large or medium software projects.**
 
-Soy un estudiante de ingeniería informática con especialización en software aprendiendo sobre aplicaciones web y de escritorio. 
-<br>
-Me apasiona usar la tecnología para resolver problemas y hacer la vida más fácil para las personas 🌎
+- 📫 How to reach me **acostaojuanmi@gmail.com**
 
-## Mis proyectos 💡
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/juan-miguel-acosta-ortega-a433191a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan miguel acosta ortega" height="30" width="40" /></a>
+</p>
 
-Actualmente poseo varias prácticas sobre algoritmos, estructuras de datos, y aplicaciones web, incluyendo:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<ul>
-<li>Aplicaciones web para afianzar conocimientos de javascript (APIs, LocalStorage, Promesas...) 📈</li>
-<li>Una aplicación de escritorio para la gestión de un gimnasio ( Entrada, clientes, ingresos...) 🌎</li>
-<li>Pequeñas prácticas con algoritmos de exploración de grafos, voraces... 🤖</li>
-</ul>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiacosta&show_icons=true&locale=en&layout=compact" alt="juanmiacosta" /></p>
 
-## Mis habilidades 💪
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmiacosta&show_icons=true&locale=en" alt="juanmiacosta" /></p>
 
-### Tengo las siguientes hard-skills:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiacosta&" alt="juanmiacosta" /></p>
 
-<li>Programación en C++ desarrollada ➕️➕️</li>
-<li>Desarrollo web con HTML, CSS y JavaScript 📱</li>
-<li>Desarrollo app de escritorio con Java 🖥</li>
-<li>Bases de datos relacionales ⌨️</li>
-<li style="font-weight:bold;">Actualmente aprendiendo nuevas tecnologías en diferentes ámbitos de la informática IA , Desarrollo de Software, Sistemas de Información ...📚 </li>
-
-### Tengo las siguientes soft-skills:
-
-<ul>
-<li>Liderazgo de equipos 🫡</li>
-<li>Empatía 👍</li>
-<li>Resolución de problemas 🧠</li>
-</ul>
-
-## Mis intereses 💡
-
-Estoy interesado en los siguientes temas:
-
-<ul>
-<li>Desarrollo de producto software web y multiplataforma📱💻</li>
-<li>IOT 🌍</li>
-<li>Tecnología en general🎓</li>
-</ul>
-
-## Contacto 📞
-Puedes contactarme por correo electrónico a [acostaojuanmi@gmail.com] o por Linkedin a [https://www.linkedin.com/in/juan-miguel-acosta-ortega-a433191a8/].
