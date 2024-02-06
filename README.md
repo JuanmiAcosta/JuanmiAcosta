@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **acostaojuanmi@gmail.com**
 
+<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-miguel-acosta-ortega-a433191a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan miguel acosta ortega" height="30" width="40" /></a>
@@ -17,5 +19,5 @@
 
 <hr/>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiacosta&show_icons=true&locale=en&layout=compact" alt="juanmiacosta" /></p>
+<p style="text-align:center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiacosta&show_icons=true&locale=en&layout=compact" alt="juanmiacosta" /></p>
 
