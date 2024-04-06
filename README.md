@@ -17,5 +17,5 @@
 
 <hr/>
 <div align="center">
-  <p style="text-align:center;width:100%;"><img style="width:80%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiacosta&show_icons=true&locale=en&layout=compact" alt="juanmiacosta" /></p>
+  <p style="text-align:center;width:100%;"><img style="width:60%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiacosta&show_icons=true&locale=en&layout=compact" alt="juanmiacosta" /></p>
 </div>
