@@ -1,6 +1,8 @@
 <br clear="both">
 
-<img align="right" height="250" src="https://avatars.githubusercontent.com/u/100489090?s=400&u=d31c0169b85746bc20841e59a536e3f5627c1669&v=4"  />
+<div align="center">
+  <img height="250" src="https://avatars.githubusercontent.com/u/100489090?s=400&u=d31c0169b85746bc20841e59a536e3f5627c1669&v=4"  />
+</div>
 
 ###
 
