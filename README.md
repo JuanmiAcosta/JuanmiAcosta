@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">Ingeniero Informático con mención en INgeniería del Software 👨‍💻</h3>
+<h3 align="left">Ingeniero Informático con mención en Ingeniería del Software 👨‍💻</h3>
 
 ###
 
