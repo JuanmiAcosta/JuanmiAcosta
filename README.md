@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">He trabajado en aprender sobre diferentes disciplinas a la par que trabajo en proyectos personales. Me apasiona dar soluciones creativas a todo tipo de retos 🕵️‍♂️</p>
+<p align="left">He trabajado en aprender sobre diferentes disciplinas a la par que en proyectos personales. Me apasiona dar soluciones creativas a todo tipo de retos 🕵️‍♂️</p>
 
 ###
 
@@ -51,11 +51,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanmiAcosta&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanmiAcosta&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
