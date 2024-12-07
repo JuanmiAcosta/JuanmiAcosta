@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Ey, soy Juanmi y te invito a ver y contribuir en mis proyectos 💪</h1>
+<h1 align="center">Ey soy Juanmi, te invito a ver y contribuir en mis proyectos 💪</h1>
 
 ###
 
